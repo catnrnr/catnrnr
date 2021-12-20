@@ -1,8 +1,8 @@
-hi! im quinn (or quinnrnr)
+hi! im cat 
 
-im on a gap yr atm to earn money, but I try reserve time for my main interest : IT security
+on a gap yr
 
-my domains of interest are as follows...
+domains of interest are as follows...
 
 ✰ python (i'm learning atm)
 
@@ -14,7 +14,7 @@ my domains of interest are as follows...
 
 i have a level 3 btec extended diploma in networking, and i do adhoc security research on the side
 
-i can be reached on discord as quinnrnr#4745
+i can be reached on discord as catnrnr#4745
 
 <!---
 quinnrnr/quinnrnr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
