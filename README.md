@@ -2,7 +2,7 @@ hi! im cat
 
 on a gap yr
 
-domains of interest are as follows...
+interest are as follows...
 
 ✰ python (i'm learning atm)
 
