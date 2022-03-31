@@ -6,7 +6,7 @@ interest are as follows...
 
 ✰ python (i'm learning atm)
 
-✰ computer networking, specifically cisco
+✰ reverse egineering
 
 ✰ risk assessment 
 
