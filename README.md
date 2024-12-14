@@ -1,18 +1,9 @@
-hi! im cat 
+##### hi! im cat 👋
 
-interest are as follows...
+→ currently working as a full time cloud/data engineer apprentice
+→ 2/3yrs into an IT degree 💀
 
-✰ python (i'm learning atm)
-
-✰ reverse egineering
-
-✰ risk assessment 
-
-✰ vulnerability management
-
-i can be reached on discord as catnrnr#4745
-
-<!---
-quinnrnr/quinnrnr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+all for: 
+- security as code
+- documentation as code
+- open source stuff staying open source 🐧
